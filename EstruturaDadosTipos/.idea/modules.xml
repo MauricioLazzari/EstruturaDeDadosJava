@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/EstruturaDadosObjetos.iml" filepath="$PROJECT_DIR$/EstruturaDadosObjetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstruturaDadosTipos.iml" filepath="$PROJECT_DIR$/EstruturaDadosTipos.iml" />
     </modules>
   </component>
 </project>
